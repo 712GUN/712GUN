@@ -1,16 +1,82 @@
-## Hi there 👋
+# Joseph Provencio
 
-<!--
-**712GUN/712GUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Builder | Investor | Entrepreneur
 
-Here are some ideas to get you started:
+Building AI-powered platforms that transform market intelligence, crypto analytics, and ecommerce into actionable opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder of CatalystTrader AI, CryptoSniper, and Squish Haven.
+
+---
+
+## 🚀 CatalystTrader AI
+
+AI-powered catalyst investing platform featuring:
+
+- Catalyst Comparison Engine™
+- Trade Setup Generator™
+- Entry / Exit Planner™
+- Risk / Reward Gauge™
+- Options Strategy Matrix™
+- FDA Catalyst Scanner™
+
+Website: [CatalystTrader AI](https://catalystrader.ai)
+
+---
+
+## 📈 CryptoSniper
+
+AI-powered crypto intelligence platform featuring:
+
+- Whale Tracking
+- Bittensor Analytics
+- Subnet Intelligence
+- Catalyst Detection
+- Market Intelligence
+
+---
+
+## 🧸 Squish Haven
+
+Collectible squishy and kawaii ecommerce brand.
+
+Features:
+
+- Global sourcing
+- Ecommerce automation
+- Product research
+- Community engagement
+
+---
+
+## About Me
+
+36+ years of experience spanning:
+
+- Intelligence Operations
+- Threat & Risk Assessment
+- National Security
+- Security Operations
+- Risk Management
+- Investigations
+- AI-Powered Business Development
+
+Currently building AI-powered platforms focused on trading intelligence, crypto analytics, and ecommerce automation.
+
+---
+
+## Current Focus
+
+- Building CatalystTrader AI
+- Developing CryptoSniper analytics
+- Growing Squish Haven ecommerce
+- Exploring AI automation and agentic workflows
+
+## Connect
+
+[![Website](https://img.shields.io/badge/Website-CatalystTraderAI-blue)](https://catalystrader.ai)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Provencio-blue)](https://linkedin.com/in/josephprovencio)
+
+[![X](https://img.shields.io/badge/X-@CatalystTraderAI-black)](https://x.com/CatalystTraderAI)
+
+[![YouTube](https://img.shields.io/badge/YouTube-CatalystTraderAI-red)](https://youtube.com/@CatalystTraderAI)
