@@ -71,12 +71,40 @@ Currently building AI-powered platforms focused on trading intelligence, crypto 
 - Growing Squish Haven ecommerce
 - Exploring AI automation and agentic workflows
 
-## Connect
+## 🛠️ Tech Stack
 
-[![Website](https://img.shields.io/badge/Website-CatalystTraderAI-blue)](https://catalystrader.ai)
+- Base44
+- Hostinger Horizons
+- GitHub
+- Supabase
+- Stripe
+- Resend
+- Finnhub
+- OpenAI
+- Claude
+- Gemini
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Provencio-blue)](https://linkedin.com/in/josephprovencio)
+## 📊 Recent Milestones
 
-[![X](https://img.shields.io/badge/X-@CatalystTraderAI-black)](https://x.com/CatalystTraderAI)
+✓ Launched CatalystTrader AI
 
-[![YouTube](https://img.shields.io/badge/YouTube-CatalystTraderAI-red)](https://youtube.com/@CatalystTraderAI)
+✓ Deployed CryptoSniper
+
+✓ Built Squish Haven ecommerce store
+
+✓ Published GitHub Founder Profile
+
+✓ Integrated AI-powered market intelligence workflows 
+
+## 🌐 Connect
+
+🌎 Website: https://catalystrader.ai
+
+💼 LinkedIn:
+https://linkedin.com/in/aiprofitfunnels
+
+𝕏 X:
+https://x.com/JcRemedies
+
+📺 YouTube:
+https://youtube.com/@aiprofitfunnels
